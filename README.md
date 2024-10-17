@@ -1,6 +1,8 @@
 Ex. No : 1
 
 IMPLEMENTATION OF SYMBOL TABLE
+
+
 NAME : HARIPRRASHAAD RA 
 Register Number : 212223040060
 
@@ -86,7 +88,7 @@ int main() {
 
 
 OUTPUT:
-![image](https://github.com/user-attachments/assets/d78d18a4-1614-473c-820a-d625d0af24df)
+![image](https://github.com/user-attachments/assets/e589223a-8550-434d-b621-a6f3be961ceb)
 
 
 RESULT:
